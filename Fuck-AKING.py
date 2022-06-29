@@ -11,7 +11,7 @@ if bit == '64bit':
     print('\n\n\n\n\n FUCK AKING IN PROGRESS...!')
     time.sleep(2)
     os.system('clear')
-    print('\n\n\n\n\n CRACK BY 💁 [+] JIBON BROH [+]...!')
+    print('\n\n\n\n\n BYPASS BY[+] BLACK HUNTER TEAM [+]...!')
     time.sleep(6)
     from pc import readline___Public_Xml
     readline___Public_Xml()
